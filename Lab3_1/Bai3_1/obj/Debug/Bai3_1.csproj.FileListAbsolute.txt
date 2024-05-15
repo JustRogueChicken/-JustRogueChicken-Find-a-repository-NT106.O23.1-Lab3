@@ -1,0 +1,12 @@
+E:\Lap Trinh Mang Can Ban\Lab3\Lab3_1\Bai3_1\bin\Debug\Bai3_1.exe.config
+E:\Lap Trinh Mang Can Ban\Lab3\Lab3_1\Bai3_1\bin\Debug\Bai3_1.exe
+E:\Lap Trinh Mang Can Ban\Lab3\Lab3_1\Bai3_1\bin\Debug\Bai3_1.pdb
+E:\Lap Trinh Mang Can Ban\Lab3\Lab3_1\Bai3_1\obj\Debug\Bai3_1.csproj.AssemblyReference.cache
+E:\Lap Trinh Mang Can Ban\Lab3\Lab3_1\Bai3_1\obj\Debug\Bai3_1.Properties.Resources.resources
+E:\Lap Trinh Mang Can Ban\Lab3\Lab3_1\Bai3_1\obj\Debug\Bai3_1.csproj.GenerateResource.cache
+E:\Lap Trinh Mang Can Ban\Lab3\Lab3_1\Bai3_1\obj\Debug\Bai3_1.csproj.CoreCompileInputs.cache
+E:\Lap Trinh Mang Can Ban\Lab3\Lab3_1\Bai3_1\obj\Debug\Bai3_1.exe
+E:\Lap Trinh Mang Can Ban\Lab3\Lab3_1\Bai3_1\obj\Debug\Bai3_1.pdb
+E:\Lap Trinh Mang Can Ban\Lab3\Lab3_1\Bai3_1\obj\Debug\Bai3_1.Form1.resources
+E:\Lap Trinh Mang Can Ban\Lab3\Lab3_1\Bai3_1\obj\Debug\Bai3_1.Server.resources
+E:\Lap Trinh Mang Can Ban\Lab3\Lab3_1\Bai3_1\obj\Debug\Bai3_1.Client.resources
